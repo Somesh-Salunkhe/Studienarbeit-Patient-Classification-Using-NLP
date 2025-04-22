@@ -1,0 +1,1 @@
+# Classification of Psychiatric Emergencies in Rescue Patients Using Hybrid Machine Learning and Transformer Models
